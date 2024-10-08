@@ -31,3 +31,4 @@ Before starting, ensure you have the following:
 - 🖥 Visual Studio Code (or another IDE that supports Copilot)
 - 👤 A GitHub account with Copilot access
 
+
