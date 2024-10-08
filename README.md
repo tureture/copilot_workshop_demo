@@ -4,7 +4,7 @@ This guide will walk you through a simple demonstration of GitHub Copilot, your 
 
 ## 🛠 Getting Started
 
-1. **Open Visual Studio Code (VSCode)**.
+1. Open Visual Studio Code (VSCode).
 2. Choose one of the two tasks and let Copilot guide you.
 3. Run the Python file to verify your code. If all tests pass, your solution is correct!
 
