@@ -14,7 +14,7 @@ Run the python file to check your answers.
 * Use # to get completions whil
 
 ## Things to try
-* TODO
+* TODO. Add stuff like "ask copilot the explain the code" or to write more unittests
 
 
 
