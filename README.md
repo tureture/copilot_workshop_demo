@@ -16,7 +16,11 @@ Run the python file to check your answers.
 ## Things to try
 * TODO. Add stuff like "ask copilot the explain the code" or to write more unittests
 
-
+### Requirements
+* Python
+* VSCode (or other IDE with Copilot)
+* Pytest
+* Github account w. copilot access
 
 
 
