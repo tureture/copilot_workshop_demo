@@ -1,29 +1,36 @@
-# Github Copilot Demo
-Here are some simple tasks for demonstrating github copilot.
+# GitHub Copilot Demo
 
-## Get started 
-Open VSCode, select one of the two tasks and let Copilot help you!
-Run the python file to check your answers, if all tests pass the code is correct.
+This guide will walk you through a simple demonstration of GitHub Copilot, your AI programming assistant.
 
-## Tips and tricks
-* Open Copilot Chat by pressing the chat button to the left in VSCode.
-* Press Ctrl + I to open inline chat
-* Press Ctrl + Enter to choose between multiple suggestions
-* Copilot also works in the command line
-* Drag and drop files to attach relevant contex, or let copilot decide what files to look through
-* Use # to get c
+## Getting Started
 
-## Things to try
-* Ask Copilot to summarize the problem
-* Ask Copilot to explain specific parts of the code
-* Try Copilot in the terminal (Ctrl + I)
-* Expand the unit-tests
+1. **Open Visual Studio Code (VSCode)**.
+2. Choose one of the two tasks and let Copilot guide you.
+3. Run the Python file to verify your code. If all tests pass, your solution is correct!
 
-### Requirements
-* Python
-* VSCode (or other IDE with Copilot)
-* Pytest
-* Github account w. copilot access
+## Tips and Tricks
 
+- **Open Copilot Chat:** Press the chat icon in the VSCode sidebar.
+- **Inline Chat:** Press `Ctrl + I` to open inline chat with Copilot.
+- **Code Suggestions:** Press `Ctrl + Enter` to choose between multiple code suggestions.
+- **Command Line Assistance:** Copilot also works in the command line interface (terminal).
+- **Contextual Assistance:** Drag and drop files to provide relevant context, or let Copilot decide which files to consider automatically.
+
+## Things to Try
+
+- **Problem Summarization:** Ask Copilot to summarize the problem for you.
+- **Code Explanation:** Have Copilot explain specific parts of the code.
+- **Terminal Assistance:** Use Copilot in the terminal with `Ctrl + I`.
+- **Expand Unit Tests:** Try expanding or improving the provided unit tests with Copilot's help.
+
+## Requirements
+
+Before starting, ensure you have the following:
+
+- Python installed
+- Visual Studio Code (or another IDE that supports Copilot)
+- A GitHub account with Copilot access
+
+---
 
 
