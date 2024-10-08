@@ -44,8 +44,6 @@ import unittest
 # If you get stuck, there are comments at the bottom of the file that can help you get unstuck
 
 def roman_to_integer(s: str) -> int:
-
-    
     pass
 
 class TestRomanToInteger(unittest.TestCase):
