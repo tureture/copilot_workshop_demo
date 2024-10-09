@@ -25,6 +25,8 @@ This guide will walk you through a simple demonstration of GitHub Copilot, your 
 - **Code Explanation:** Have Copilot explain specific parts of the code.
 - **Inline Copilot:** Use Copilot inside a file or in the terminal with `Ctrl + I`.
 - **Expand Unit Tests:** Try expanding or improving the provided unit tests with Copilot's help.
+- **Type Hints:** Let Copilot help you add type hints to the code.
+- **Documentation** Let Copilot write docstrings and comments making the code more readable. 
 
 ## ✅ Requirements
 
