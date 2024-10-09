@@ -29,7 +29,7 @@ This guide will walk you through a simple demonstration of GitHub Copilot, your 
 - **Type Hints:** Let Copilot help you add type hints to the code.
 - **Documentation** Let Copilot write docstrings and comments making the code more readable.
 
-## What's Next? 🚀
+## 🚀 What's Next? 
 - **Apply for Copilot:** Follow the instructions in the PowerPoint! We will also send out instructions after the workshop, if needed.
 - **Try it on real coding problems:** Copilot shines even more when applied to real coding tasks. Try it out on your own projects and evaluate how well Copilot integrates with your workflow.
 
