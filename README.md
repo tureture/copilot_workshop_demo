@@ -14,6 +14,7 @@ This guide will walk you through a simple demonstration of GitHub Copilot, your 
 ## 💡 Tips and Tricks
 
 - **Open Copilot Chat:** Press the chat icon in the VSCode sidebar.
+- **Accept Suggestions:** Press `Tab` to accept a inline code suggestion (similar to regular code completion tools).
 - **Inline Chat:** Press `Ctrl + I` to open inline chat with Copilot.
 - **Code Suggestions:** Press `Ctrl + Enter` to choose between multiple code suggestions.
 - **Command Line Assistance:** Copilot also works in the command line interface (terminal).
@@ -26,7 +27,11 @@ This guide will walk you through a simple demonstration of GitHub Copilot, your 
 - **Inline Copilot:** Use Copilot inside a file or in the terminal with `Ctrl + I`.
 - **Expand Unit Tests:** Try expanding or improving the provided unit tests with Copilot's help.
 - **Type Hints:** Let Copilot help you add type hints to the code.
-- **Documentation** Let Copilot write docstrings and comments making the code more readable. 
+- **Documentation** Let Copilot write docstrings and comments making the code more readable.
+
+## Whats next?
+- **Apply for copilot:** Follow the instructions in the powerpoint! We will also send out instructions after the workshop if needed.
+- **Try it on real coding problems:** Copilot is even more useful on real coding tasks. Please check it out on your own code, and evaluate if copilot can assist you. 
 
 ## ✅ Requirements
 
