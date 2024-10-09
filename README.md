@@ -13,12 +13,12 @@ This guide will walk you through a simple demonstration of GitHub Copilot, your 
 
 ## 💡 Tips and Tricks
 
-- **Open Copilot Chat:** Press the chat icon in the VSCode sidebar.
-- **Accept Suggestions:** Press `Tab` to accept a inline code suggestion (similar to regular code completion tools).
+- **Open Copilot Chat:** Click the chat icon in the VSCode sidebar to open Copilot Chat.
+- **Accept Suggestions:** Press `Tab` to accept an inline code suggestion, similar to how regular code completion tools work.
 - **Inline Chat:** Press `Ctrl + I` to open inline chat with Copilot.
 - **Code Suggestions:** Press `Ctrl + Enter` to choose between multiple code suggestions.
-- **Command Line Assistance:** Copilot also works in the command line interface (terminal).
-- **Contextual Assistance:** Drag and drop files into the chat to provide relevant context, or let Copilot decide which files to consider automatically.
+- **Command Line Assistance:** Copilot can assist you in the command line interface (terminal) as well.
+- **Contextual Assistance:** You can drag and drop files into the chat to provide relevant context, or let Copilot automatically decide which files to consider.
 
 ## 🔍 Things to Try
 
@@ -29,9 +29,9 @@ This guide will walk you through a simple demonstration of GitHub Copilot, your 
 - **Type Hints:** Let Copilot help you add type hints to the code.
 - **Documentation** Let Copilot write docstrings and comments making the code more readable.
 
-## Whats next?
-- **Apply for copilot:** Follow the instructions in the powerpoint! We will also send out instructions after the workshop if needed.
-- **Try it on real coding problems:** Copilot is even more useful on real coding tasks. Please check it out on your own code, and evaluate if copilot can assist you. 
+## What's Next? 🚀
+- **Apply for Copilot:** Follow the instructions in the PowerPoint! We will also send out instructions after the workshop, if needed.
+- **Try it on real coding problems:** Copilot shines even more when applied to real coding tasks. Try it out on your own projects and evaluate how well Copilot integrates with your workflow.
 
 ## ✅ Requirements
 
