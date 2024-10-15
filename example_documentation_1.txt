@@ -1,0 +1,18 @@
+/*
+ * This file is part of the Copilot Workshop Demo.
+ *
+ * In this example, we demonstrate how to use GitHub Copilot to generate documentation comments.
+ * GitHub Copilot is an AI-powered code completion tool that helps developers by suggesting code snippets,
+ * comments, and documentation based on the context of the code being written.
+ *
+ * To use GitHub Copilot, simply start typing your code or comment, and Copilot will provide suggestions
+ * that you can accept, reject, or modify. This can significantly speed up the development process and
+ * improve code quality by ensuring consistent and comprehensive documentation.
+ *
+ * Example usage:
+ * 1. Start typing a function or a comment.
+ * 2. Observe the suggestions provided by Copilot.
+ * 3. Accept a suggestion by pressing `Tab` or modify it as needed.
+ *
+ * Note: Ensure that you review and edit the suggestions to fit your specific use case and coding standards.
+ */
